@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Uzziel 👋</h1>
 
-<!--
-**uzzielaslam05-maker/uzzielaslam05-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI engineer in the making</b> · Machine learning · Deep learning · Computer vision · AI automation<br>
+  Open to work
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img alt="Pac-Man eating my GitHub contributions"
+       src="https://raw.githubusercontent.com/uzzielaslam05-maker/uzzielaslam05-maker/output/pacman-neon.svg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>Every square is a day I shipped something. Pac-Man is hungry. 🟡</sub></p>
+
+## 🔬 What I build
+
+- Medical-imaging detectors (YOLOv8/v11) deployed as Streamlit apps
+- On-device ML web apps
+- Agentic LLM tools that route to my own trained models
+
+> Replace this section with your own project links.
+
+## 📫 Find me
+
+- LinkedIn: _add your link_
