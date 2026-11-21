@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Uzziel 👋</h1>
+
 
 <p align="center">
   <b>AI engineer in the making</b> · Machine learning · Deep learning · Computer vision · AI automation<br>
@@ -12,14 +12,3 @@
 
 <p align="center"><sub>Every square is a day I shipped something. Pac-Man is hungry. 🟡</sub></p>
 
-## 🔬 What I build
-
-- Medical-imaging detectors (YOLOv8/v11) deployed as Streamlit apps
-- On-device ML web apps
-- Agentic LLM tools that route to my own trained models
-
-> Replace this section with your own project links.
-
-## 📫 Find me
-
-- LinkedIn: _add your link_
